@@ -1,8 +1,8 @@
 {
-    "name": "Telethon Music Bot",
-    "description": "Music allow you to stream music trought the telegram voice chat feature Based on Telethon.",
-    "keywords": ["DroxTeAm", "DroxMusic", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music", "telethon"],
-    "repository": "https://github.com/RasulMuntazarMusic/Music",
+"name": "Telethon Drox Music Bot",
+    "description": "مـرحبا بك عزيزي فـي تنصيـب سـورس دروكـس ميوزك عليك أملاء الحقول في الأسـفل. ",
+    "keywords": ["JMTHON", "JMTHON-MUSIC", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music", "telethon"],
+    "repository": "https://github.com/RasulMuntazar0/Music",
   "stack": "container",
     "env": {
         "STRING_SESSION": {
